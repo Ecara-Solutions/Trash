@@ -1,7 +1,7 @@
 import requests
 import serial
 import time
-
+#|
 token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRCI6IjQ0ZTNiYmRmLTI1NjAtNDdjOC1iNTM5LWFjMWJjYzRmOTUwZiIsIk5hbWUiOiJHVEsgQy5FLlQuUCBTb2NpZXR5In0.KArANyWtSIsS2qBgFfovAmBfZCY-tmpnJCVkErgqUeU"
 url = "https://analyzeriot.el.r.appspot.com/api/analyzer/water"
 
